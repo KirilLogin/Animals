@@ -73,11 +73,11 @@
 
 Создать таблицы с иерархией из диаграммы в БД
 
-![](image/img16.png)
+![](test/img16.png)
 
-![](image/img18.png)
+![](test/img18.png)
 
-![](image/img19.png)
+![](test/img19.png)
 
 ### Задание 9
 
@@ -121,4 +121,4 @@ DELETE FROM camels;
 
 ## Программная реализация
 
-![](test/img30.png)
+![](test/image30.png)
