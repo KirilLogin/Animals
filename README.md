@@ -15,7 +15,7 @@
 
 Объединение, переименование файлов
 
-![](more image/image30.png)
+![](more_image/image30.png)
 
 
 ### Задание 2
