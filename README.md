@@ -63,7 +63,7 @@
 В подключенном MySQL репозитории создать базу данных “Друзья
 человека”.
 
-<a href="diagram/UML.draiwo" target="_blank">Файл задания</a>
+<a href="diagram/UML.drawio" target="_blank">Файл задания</a>
 
 ![](test/image14.png)
 
