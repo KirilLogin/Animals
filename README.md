@@ -12,6 +12,8 @@
 Создание файлов
 
 ![](test/image1.png)
+![](test/image8.png)
+![](test/image9.png)
 
 Объединение, переименование файлов
 
@@ -23,6 +25,9 @@
 Создать директорию, переместить файл туда. 
 
 ![](test/image3.png)
+![](test/image4.png)
+![](test/image5.png)
+![](test/image7.png)
 
 ### Задание 3 
 
