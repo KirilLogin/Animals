@@ -73,9 +73,12 @@
 
 Создать таблицы с иерархией из диаграммы в БД
 
-![](image/img_010.png)
+![](image/img16.png)
 
-![](image/img_011.png)
+![](image/img18.png)
+
+![](image/img19.png)
+
 
 <a href="data/Animals.SQL" target="_blank">SQL дамп создания БД</a>.
 
