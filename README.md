@@ -79,18 +79,18 @@
 
 ![](image/img19.png)
 
-
-<a href="data/Animals.SQL" target="_blank">SQL дамп создания БД</a>.
-
 ### Задание 9
 
 Заполнить низкоуровневые таблицы именами(животных), командами
 которые они выполняют и датами рождения
 
-![](image/img_012.png)
+![](test/img20.png)
 
-![](image/img_013.png)
+![](test/img21.png)
 
+![](test/img23.png)
+
+[](test/img25.png)
 
 ### Задание 10
 
@@ -101,7 +101,7 @@
 DELETE FROM camel;
 ```
 
-![](image/img_014.png)
+![](test/img26.png)
 
 Объединить таблицы лошади, и ослы в одну таблицу.
 
