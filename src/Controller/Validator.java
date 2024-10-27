@@ -34,7 +34,7 @@ public class Validator {
     private boolean isValidName (String name){
         for (int i = 0; i < name.length(); i++) {
             if (! Character.UnicodeBlock.of(name.charAt(i)).equals(Character.UnicodeBlock.CYRILLIC)) {
-                throw new UncorrectDataException(String.format("некорректно задано имя, допустимы только буквы кириллицы"));
+                throw new UncorrectDataException(String.format("некорректно задано имя, напишите кириллицой"));
             }
         }
         return true;
