@@ -63,11 +63,9 @@
 В подключенном MySQL репозитории создать базу данных “Друзья
 человека”.
 
-<a href="diagram/Итоговая%20аттестация." target="_blank">Файл задания</a>
+<a href="diagram/UML.draiwo" target="_blank">Файл задания</a>
 
-![](image/img_008.png)
-
-![](image/img_009.png)
+![](test/image14.png)
 
 ### Задание 8
 
