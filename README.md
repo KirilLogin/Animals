@@ -58,16 +58,16 @@
 
 <a href="diagram/UML.drawio" target="_blank">Файл задания</a>
 
-![](test/image14.png)
+![](test/img14.png)
 
 ### Задание 7
 
 В подключенном MySQL репозитории создать базу данных “Друзья
 человека”.
 
-![](test/image15.png)
+![](test/img15.png)
 
-![](test/image16.png)
+![](test/img16.png)
 
 ### Задание 8
 
