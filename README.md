@@ -121,4 +121,4 @@ DELETE FROM camels;
 
 ## Программная реализация
 
-![](test/image29.png)
+![](test/img29.png)
